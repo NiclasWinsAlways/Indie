@@ -41,3 +41,11 @@ color: white;
     justify-content: center;
     background: #000;
 }
+
+.træning__for--alle {
+    display: flex;
+    justify-content: center;
+    background: black;
+    color: white;
+    font-size: 40px;
+}
