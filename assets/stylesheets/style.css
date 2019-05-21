@@ -13,6 +13,7 @@ body{
 display: flex;
 justify-content: space-evenly;
 list-style-type: none;
+background: #000;
 }
 
 .main__nav li {
@@ -28,12 +29,15 @@ list-style-type: none;
 
 .arrow__down {
 font-size: 14px;
+color: white;
 }
 
 /**header end**/
 
 /**front page top start**/
-.img {
+
+.Section_wrapper {
     display: flex;
     justify-content: center;
+    background: #000;
 }
