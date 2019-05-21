@@ -27,5 +27,5 @@ list-style-type: none;
 }
 
 .arrow__down {
-display: flex;
+font-size: 14px;
 }
