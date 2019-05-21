@@ -17,6 +17,7 @@ background: #000;
 }
 
 .main__nav li {
+    margin-top: 20px;
     display: block;
     padding: 12px 42px 14px;
     color: #d92027;
@@ -30,6 +31,10 @@ background: #000;
 .arrow__down {
 font-size: 14px;
 color: white;
+}
+
+.forside__box {
+    border: 1px solid #A7A1A1;
 }
 
 /**header end**/
