@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+
+.main__nav {
+display: flex;
+justify-content: space-evenly;
+list-style-type: none;
+}
+
+.main__nav li {
+    display: block;
+    padding: 12px 42px 14px;
+    color: #d92027;
+    background: transparent;
+    line-height: 1.2;
+    letter-spacing: 0.2em;
+    font-weight: 700;
+    font-size: 14px;
+}
