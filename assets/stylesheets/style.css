@@ -29,3 +29,11 @@ list-style-type: none;
 .arrow__down {
 font-size: 14px;
 }
+
+/**header end**/
+
+/**front page top start**/
+.img {
+    display: flex;
+    justify-content: center;
+}
