@@ -37,6 +37,19 @@ color: white;
     border: 1px solid #A7A1A1;
 }
 
+.hold__navigation {
+    position: absolute;
+    display: none;
+    right: 0;
+    top: 20px;
+    background-color: white;
+    list-style-type: none;
+    padding-right: 25px;
+    padding-top: 45px;
+    padding-left: 35px;
+    padding-bottom: 25px;
+}
+
 /**header end**/
 
 /**front page top start**/
