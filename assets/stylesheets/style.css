@@ -95,12 +95,33 @@ section p {
 }
 
 .gratis__p {
+    display: inline-block;
     letter-spacing: 0,3em;
     color: white;
     font-size: 30px;
+    margin-left: 455px;
 }
 .gratis__price {
     color: #d92027;
-    display: inline-block;
+    font-size: 30px;
 }
 
+.p__spar {
+    display: inline-block;
+    color: white;
+    margin-left: 600px;
+}
+
+.spar__price {
+    color: #d92027;
+}
+
+.btn__wrapper {
+    overflow: hidden;
+}
+
+.btn__btn-block {
+    position: relative;
+    width: auto;
+    display: inline-block;
+}
