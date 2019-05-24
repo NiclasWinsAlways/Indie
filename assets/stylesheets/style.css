@@ -65,7 +65,9 @@ color: white;
     justify-content: center;
     background: black;
     color: white;
-    font-size: 40px;
+    font-size: 25px;
+    line-height: 0.8;
+    letter-spacing: .26em;
 }
 
 .Kr__pr--md {
@@ -109,7 +111,7 @@ section p {
 .p__spar {
     display: inline-block;
     color: white;
-    margin-left: 600px;
+    margin-left: 650px;
 }
 
 .spar__price {
