@@ -120,7 +120,7 @@ section p {
     overflow: hidden;
 }
 
-.btn__btn-block {
+.btn__btn--block {
     position: relative;
     width: auto;
     display: flex;
@@ -132,4 +132,8 @@ section p {
     margin-left: 600px;
     text-decoration: none;
 
+}
+
+.btn__font {
+    color: #d92027;
 }
