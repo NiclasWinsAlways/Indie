@@ -123,5 +123,13 @@ section p {
 .btn__btn-block {
     position: relative;
     width: auto;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;   
+    border: 1px solid black;
+    padding: 15px 32px;
+    width: 150px;
+    margin-left: 600px;
+    text-decoration: none;
+
 }
