@@ -126,14 +126,21 @@ section p {
     display: flex;
     justify-content: center;
     margin-top: 20px;   
-    border: 1px solid black;
+    border: 1px solid gray;
     padding: 15px 32px;
     width: 150px;
     margin-left: 600px;
     text-decoration: none;
+    background: transparent;
+    letter-spacing: 0,2em;
+    
 
 }
 
 .btn__font {
     color: #d92027;
 }
+
+/** end **/
+
+/**velkommen start**/
