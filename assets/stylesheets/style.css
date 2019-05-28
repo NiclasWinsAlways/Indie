@@ -153,6 +153,17 @@ section p {
     margin-top: 20px;
 }
 
+.grid__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: #A7A1A1;
+}
+.vel__text--p {
+    color: #A7A1A1;
+    margin: 0 0 14;
+    line-height: 1,8rem;
+}
+
 /** end **/
 
 /**velkommen start**/
