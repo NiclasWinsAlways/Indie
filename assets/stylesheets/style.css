@@ -97,12 +97,16 @@ section p {
     margin-top: 15px;
 }
 
+.logo__img {
+    margin-top: 20px;
+}
+
 .gratis__p {
     display: inline-block;
     letter-spacing: 0,3em;
     color: white;
-    font-size: 30px;
-    margin-left: 455px;
+    font-size: 20px;
+    margin-left: 550px;
 }
 .gratis__price {
     color: #d92027;
@@ -120,7 +124,7 @@ section p {
 }
 
 .btn__wrapper {
-    overflow: hidden;
+    margin-right: 20px;
 }
 
 .btn__btn--block {
@@ -162,8 +166,55 @@ section p {
     color: #A7A1A1;
     margin: 0 0 14;
     line-height: 1,8rem;
+    margin-left: 30px;
+}
+
+.text__gray {
+    color: #878787;
+    font-size: 20px;
+}
+.text__gray2 {
+    color: #878787;
+    font-size: 25px;
+}
+.fa-map-marker-alt:before {
+    color: #000;
+    margin-right: 20px;
+
+    
+}
+.fa-phone:before {
+    color: #000;
+}
+
+.fa-envelope:before {
+    color: #000;
+
+}
+
+.text__primary {
+    color: #d92027;
+    font-size: 20px;
+}
+
+.flex__container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 40px;
 }
 
 /** end **/
+
+/**borders **/
+.border__btn {
+    border: 1px solid red;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-left: 350px;
+    margin-bottom: 20px;
+    margin-top: 100px;
 
 /**velkommen start**/
