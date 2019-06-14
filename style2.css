@@ -5,7 +5,6 @@
 
 body{
     font-family: "Raleway", Helvetica, Arial, sans-serif;
-    
 }
 
 /**header start**/
@@ -59,7 +58,10 @@ color: white;
     display: flex;
     justify-content: center;
     background: #000;
-   padding-top: 250px;
+}
+
+.connected__wrapper {
+  padding-top: 400px;
 }
 
 .træning__for--alle {
@@ -206,17 +208,3 @@ section p {
     margin-top: 20px;
     margin-right: 40px;
 }
-
-/** end **/
-
-/**borders **/
-.border__btn {
-    border: 1px solid red;
-    width: 50%;
-    display: flex;
-    justify-content: center;
-    margin-left: 350px;
-    margin-bottom: 20px;
-    margin-top: 100px;
-
-/**velkommen start**/
